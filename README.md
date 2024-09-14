@@ -51,14 +51,45 @@
 ### Prerequisites
 
 
-### Installation
-Contract:
+### Installation and Running the project
+**Contract:**
 
-Backend:
+Prerequisites: `sui-1.32.xx, rustc 1.79, node 20`
+Running the project:
+```bash
+   npm install
 
-Frontend:
+   sui move build
+   sui move test
+   ts-node scripts/utils/setup.ts
+```
 
-AI KB:
+**Backend:**
+
+Prerequisites: `node 20, MongoDB`
+Running the project:
+```bash
+   npm install
+   npm run start
+```
+
+**Frontend:**
+
+Prerequisites: `python: >=3.10,<3.12, Qdrant, Poetry, Cargo`
+Running the project:
+```bash
+   yarn install
+   yarn dev 
+```
+
+**AI KB:**
+
+Prerequisites: `python: >=3.10,<3.12, Qdrant, Poetry, Cargo`
+Running the project:
+```bash
+   poetry install
+   poetry run python3 src/app/main.py
+```
 
 
 
