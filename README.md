@@ -23,7 +23,7 @@
 ## Technical Architecture
 
 ### Platform Components
-[Image for the components]
+![Components in Cre8Space](./assets/flow.png)
 
 1. **Multi-Format Content Upload**
    - Support for images, blogs, documents and more.
@@ -41,11 +41,10 @@
    - Creator growth is tracked via leaderboards, and active participation is rewarded with gamified elements to increase community engagement.
 
 #### File Upload flow
-[Image for the components]
+![File Upload Flow](./assets/upload.png)
 
 #### Incentivization and AI integration
-[Image for the components]
-
+![Incentivization and AI](./assets/arch.png)
 
 ## Getting Started
 
@@ -54,8 +53,11 @@
 
 ### Installation
 Contract:
+
 Backend:
+
 Frontend:
+
 AI KB:
 
 

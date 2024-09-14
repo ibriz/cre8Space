@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "kb-walrus"
+version = "0.1.0"
+description = "RAG for the sui walrus project"
+authors = ["Gaurav Jyakhwa <gjyakhwa1@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+fastapi = "^0.113.0"
+uvicorn = "^0.30.6"
+python-dotenv = "^1.0.1"
+isort = "^5.13.2"
+ruff = "^0.6.4"
+qdrant-client = "^1.11.1"
+langchain = "^0.2.16"
+instructorembedding = "^1.0.1"
+sentence-transformers = "2.2.2"
+langchain-community = "^0.2.16"
+langchain-openai = "^0.1.23"
+pypdf2 = "^3.0.1"
+langgraph = "^0.2.19"
+tenacity = "8.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

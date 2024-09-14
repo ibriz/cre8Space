@@ -1,0 +1,5 @@
+export let packageId = '0xde68eb8f3675b58d1bf313755f2df16554c3173e5af33da91599c2ffe875bd90';
+export let SharedContents = '0x19c17a5d744a1c7300f0194d847a126661de8f5534b0845a3f717654d4dd3497';
+export let AdminCap = '0x6d29fa250f202b278d4017efa9149fc09dc9515e7fff27a701450ca2e3e550b2';
+export let UpgradeCap = '0x7f312111dab1738991290b87b2f9d5742624f1d72d4b2c067c899fc0c730d554';
+export let Content = '0xeabce1d426e0da59f06e1d4e4c5b467ebd10bd4119fa3d6934db4a09e2ec9aad';
