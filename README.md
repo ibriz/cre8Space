@@ -75,7 +75,7 @@ Running the project:
 
 **Frontend:**
 
-Prerequisites: `python: >=3.10,<3.12, Qdrant, Poetry, Cargo`
+Prerequisites: `node 18`
 Running the project:
 ```bash
    yarn install
