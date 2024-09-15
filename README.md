@@ -54,7 +54,7 @@
 ### Installation and Running the project
 **Contract:**
 
-Prerequisites: `sui-1.32.xx, rustc 1.79, node 20`
+Prerequisites: `sui-1.32.xx, rustc 1.79, node 20`\
 Running the project:
 ```bash
    npm install
@@ -66,7 +66,7 @@ Running the project:
 
 **Backend:**
 
-Prerequisites: `node 20, MongoDB`
+Prerequisites: `node 20, MongoDB`\
 Running the project:
 ```bash
    npm install
@@ -75,7 +75,7 @@ Running the project:
 
 **Frontend:**
 
-Prerequisites: `node 18`
+Prerequisites: `node 18`\
 Running the project:
 ```bash
    yarn install
@@ -84,7 +84,7 @@ Running the project:
 
 **AI KB:**
 
-Prerequisites: `python: >=3.10,<3.12, Qdrant, Poetry, Cargo`
+Prerequisites: `python: >=3.10,<3.12, Qdrant, Poetry, Cargo`\
 Running the project:
 ```bash
    poetry install
